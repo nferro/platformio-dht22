@@ -1,0 +1,11 @@
+{
+  "name": "Dht22",
+  "description": "Get readings from a DHT22 sensor. Based on OpenAg_DHT22.",
+  "keywords": "DHT, DHT22, temperature, humidity, esp8266",
+  "version": "1.0.0",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/nferro/platformio-dht22.git"
+  }
+}
